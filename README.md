@@ -1,4 +1,4 @@
-# Perfect Fitness.com.au HTML Website
+# Perfect Fitness HTML Website
 
 A HTML website for perfectfitness.com.au
 
