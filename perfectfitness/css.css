@@ -1,0 +1,20 @@
+body { background: #ffffff; text-align: center; margin: 40px 0px 0px 0px; font-family:tahoma; }
+a:link, a:visited, a:hover { color: #666666; text-decoration: none; margin:0px; padding:0px;  }
+img { margin:0px; padding:0px; border:0px; }
+fieldset { border:0; text-align:left; }
+label { display:block; margin:20px 0 0; }
+.main_layout { width:770px; margin: 0px auto; padding:0px; text-align:left; background:#121212; }
+.logo { height:120px; width:770px; border: 0px; }
+.no_border { border:0px; }
+.iblott { height:32px; width:770px; border:0px; clear:both; }
+.gap { height:15px; background:#ffffff; }
+.standards { text-align:center; background:#ffffff; }
+.main_text { width:530px; float: right; color:#99cc66; font-size:12px; }
+.form { width:400px; text-align:right; vertical-align:top; }
+.horiz_menu {  width:770px; border: 0px; }
+.top-menu { list-style:none; margin: 0px; padding:0px; }
+.top-menu li { display:inline; float:left; }
+.left_menu { background:#121212; float:left; margin:0px; padding:0px; }
+.left_ul { list-style:none; margin:0px; padding:0px; display:list-item; }
+.left_ul li { margin: 0px; padding:0px; height:60px; width:213px; }
+.bottomli { height:100px !important; }
